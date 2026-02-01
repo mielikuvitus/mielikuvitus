@@ -1,39 +1,39 @@
 # Hi, I’m Suvi, a Front-End Engineer pivoting into XR & 3D Web
 
-- How to reach me: https://www.linkedin.com/in/suvi-maaria-helin
-- Pronouns: she/her
-- Fun fact: I make a killer blueberry pie. My mum's recipe <3
-
 I’m a front-end engineer with 4+ years of professional experience, now focused on building immersive, interactive experiences across **3D web, WebXR, and XR platforms**.
 
 My background spans large-scale production systems in a banking environment and fast-paced, experimental work in hackathons and XR prototyping. I care deeply about **how people experience technology**, not just how it works.
+
+- Message me @: https://www.linkedin.com/in/suvi-maaria-helin
+- Pronouns: she/her
+- Fun fact: I make a killer blueberry pie. My mum's recipe <3
 
 ---
 
 ## Selected Work & Collaboration
 
-### 🕶️ XRCC Online Hackathon — Unity (Private Repository)
+### XRCC Online Hackathon — Unity (Private Repository)
 - Built a Unity-based XR experience as part of a multidisciplinary team 
 - Focus areas: game sound manager scripts, hand UI scripts, most of the game assets (blender) and animation apart from our interactable robot companion, rapid prototyping under time pressure  
 - Repo is private, but contributions are reflected in my PR history
 - Link for Youtube Trailer: https://www.youtube.com/watch?v=icVpRDeiQnI&t=1s
 - Link for game play: https://www.youtube.com/watch?v=t5YngTdMnGc&t=1s
 
-### 🧠 Reality Hack — Snap Spectacles Track
+### Reality Hack — Snap Spectacles Track
 - Recently completed MIT Reality Hack (Boston)
 - Focus areas: Initial boilerplate in Lens Studio, interaction logic, gestures, UI elements.
 - Worked in a team exploring XR concepts around **Dreams & Dream Machines**
 - Public repository will be added here once published by the lead developer
 - Link for Devpost: https://devpost.com/software/wake-them-up
 
-### 🎮 AI Gaming Hack (Upcoming) — organised by **SuperCell**
+### AI Gaming Hack (Upcoming) — organised by **SuperCell**
 - Participating next weekend
 - Focused on AI-driven gameplay and rapid iteration
 - Repository will be published after the hackathon concludes
 
 ---
 
-## 🏦 Professional Background
+## Professional Background
 
 **Front-End Engineer — Banking (4 years)**  
 - Built and maintained production front-end systems used at scale
@@ -47,7 +47,7 @@ While I’m no longer pursuing finance as a domain, this experience shaped how I
 
 ---
 
-## 🎓 Education
+## Education
 
 **BSc Web Design and Development (First Class Honours)** — **Edinburgh Napier University**  
 - Dissertation: *UX of Educational Tools for Universities*
@@ -55,7 +55,7 @@ While I’m no longer pursuing finance as a domain, this experience shaped how I
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 I’m intentionally deepening my technical range in:
 
@@ -69,7 +69,7 @@ My goal is to work at the intersection of **engineering, interaction, and spatia
 
 ---
 
-## 🔗 Notes
+## Notes
 - Some of my most meaningful work lives in **team repositories** rather than personal ones
 - If a repo is private or not yet published, you’ll still find my contributions in my **Pull Requests** history
 - More public XR and 3D projects coming soon
