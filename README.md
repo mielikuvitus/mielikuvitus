@@ -25,6 +25,7 @@ My background spans large-scale production systems in a banking environment and 
 - Worked in a team exploring XR concepts around **Dreams & Dream Machines**
 - Public repository will be added here once published by the lead developer
 - Link for Devpost: https://devpost.com/software/wake-them-up
+- Link for the project repository: https://github.com/mattigruener/reality-hack26
 
 ### SuperCell AI Gaming Hack (Upcoming), Feb 2026
 - Focused on AI-driven gameplay and rapid iteration
