@@ -19,15 +19,14 @@ My background spans large-scale production systems in a banking environment and 
 - Link for Youtube Trailer: https://www.youtube.com/watch?v=icVpRDeiQnI&t=1s
 - Link for game play: https://www.youtube.com/watch?v=t5YngTdMnGc&t=1s
 
-### Reality Hack — Snap Spectacles Track
+### MIT Reality Hack — Snap Spectacles Track
 - Recently completed MIT Reality Hack (Boston)
 - Focus areas: Initial boilerplate in Lens Studio, interaction logic, gestures, UI elements.
 - Worked in a team exploring XR concepts around **Dreams & Dream Machines**
 - Public repository will be added here once published by the lead developer
 - Link for Devpost: https://devpost.com/software/wake-them-up
 
-### AI Gaming Hack (Upcoming) — organised by **SuperCell**
-- Participating next weekend
+### SuperCell AI Gaming Hack (Upcoming)
 - Focused on AI-driven gameplay and rapid iteration
 - Repository will be published after the hackathon concludes
 
@@ -51,6 +50,7 @@ While I’m no longer pursuing finance as a domain, this experience shaped how I
 
 **BSc Web Design and Development (First Class Honours)** — **Edinburgh Napier University**  
 - Dissertation: *UX of Educational Tools for Universities*
+- Foundation for Web Technologies
 - Strong foundation in UX research, usability, and human-centred design
 
 ---
