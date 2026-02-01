@@ -12,21 +12,21 @@ My background spans large-scale production systems in a banking environment and 
 
 ## Selected Work & Collaboration
 
-### XRCC Online Hackathon — Unity (Private Repository)
+### XRCC Online Hackathon — Unity (Private Repository) Nov 2025
 - Built a Unity-based XR experience as part of a multidisciplinary team 
 - Focus areas: game sound manager scripts, hand UI scripts, most of the game assets (blender) and animation apart from our interactable robot companion, rapid prototyping under time pressure  
 - Repo is private, but contributions are reflected in my PR history
 - Link for Youtube Trailer: https://www.youtube.com/watch?v=icVpRDeiQnI&t=1s
 - Link for game play: https://www.youtube.com/watch?v=t5YngTdMnGc&t=1s
 
-### MIT Reality Hack — Snap Spectacles Track
+### MIT Reality Hack — Snap Spectacles Track Jan 2026
 - Recently completed MIT Reality Hack (Boston)
 - Focus areas: Initial boilerplate in Lens Studio, interaction logic, gestures, UI elements.
 - Worked in a team exploring XR concepts around **Dreams & Dream Machines**
 - Public repository will be added here once published by the lead developer
 - Link for Devpost: https://devpost.com/software/wake-them-up
 
-### SuperCell AI Gaming Hack (Upcoming)
+### SuperCell AI Gaming Hack (Upcoming) Feb 2026
 - Focused on AI-driven gameplay and rapid iteration
 - Repository will be published after the hackathon concludes
 
