@@ -12,14 +12,14 @@ My background spans large-scale production systems in a banking environment and 
 
 ## Selected Work & Collaboration
 
-### XRCC Online Hackathon — Unity (Private Repository), Nov 2025
+### XRCC Online Hackathon, Unity (Private Repository), Nov 2025
 - Built a Unity-based XR experience as part of a multidisciplinary team 
 - Focus areas: game sound manager scripts, hand UI scripts, most of the game assets (blender) and animation apart from our interactable robot companion, rapid prototyping under time pressure  
 - Repo is private, but contributions are reflected in my PR history
 - Link for Youtube Trailer: https://www.youtube.com/watch?v=icVpRDeiQnI&t=1s
 - Link for game play: https://www.youtube.com/watch?v=t5YngTdMnGc&t=1s
 
-### MIT Reality Hack — Snap Spectacles Track, Jan 2026
+### MIT Reality Hack, Snap Spectacles Track, Jan 2026
 - Recently completed MIT Reality Hack (Boston)
 - Focus areas: Initial boilerplate in Lens Studio, interaction logic, gestures, UI elements.
 - Worked in a team exploring XR concepts around **Dreams & Dream Machines**
@@ -35,7 +35,7 @@ My background spans large-scale production systems in a banking environment and 
 
 ## Professional Background
 
-**Front-End Engineer — Banking (4 years)**  
+**Front-End Engineer, Banking (4 years)**  
 - Built and maintained production front-end systems used at scale
 - Worked closely with backend developers, product managers, and stakeholders
 - Gained strong experience in:
@@ -49,7 +49,7 @@ While I’m no longer pursuing finance as a domain, this experience shaped how I
 
 ## Education
 
-**BSc Web Design and Development (First Class Honours)** — **Edinburgh Napier University**  
+**BSc Web Design and Development (First Class Honours)**, **Edinburgh Napier University**  
 - Dissertation: *UX of Educational Tools for Universities*
 - Foundation for Web Technologies
 - Strong foundation in UX research, usability, and human-centred design
@@ -66,7 +66,7 @@ I’m intentionally deepening my technical range in:
 - Building for **Snap Spectacles** using TypeScript
 - **Unity** development for Meta / VR platforms
 
-My goal is to work at the intersection of **engineering, interaction, and spatial design** — building experiences that feel intuitive, playful, and technically solid.
+My goal is to work at the intersection of **engineering, interaction, and spatial design**, building experiences that feel intuitive, playful, and technically solid.
 
 ---
 
