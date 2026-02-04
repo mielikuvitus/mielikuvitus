@@ -4,7 +4,7 @@ I’m a front-end engineer with 4+ years of professional experience, now focused
 
 My background spans large-scale production systems in a banking environment and fast-paced, experimental work in hackathons and XR prototyping. I care deeply about **how people experience technology**, not just how it works.
 
-- Message me @: https://www.linkedin.com/in/suvi-maaria-helin
+- Message me @: [LinkedIn](https://www.linkedin.com/in/suvi-maaria-helin)
 - Pronouns: she/her
 - Fun fact: I make a killer blueberry pie. My mum's recipe <3
 
@@ -16,16 +16,16 @@ My background spans large-scale production systems in a banking environment and 
 - Built a Unity-based XR experience as part of a multidisciplinary team 
 - Focus areas: game sound manager scripts, hand UI scripts, most of the game assets (blender) and animation apart from our interactable robot companion, rapid prototyping under time pressure  
 - Repo is private, but contributions are reflected in my PR history
-- Link for Youtube Trailer: https://www.youtube.com/watch?v=icVpRDeiQnI&t=1s
-- Link for game play: https://www.youtube.com/watch?v=t5YngTdMnGc&t=1s
+- [YouTube Trailer](https://www.youtube.com/watch?v=icVpRDeiQnI&t=1s)
+- [Game Play Trailer](https://www.youtube.com/watch?v=t5YngTdMnGc&t=1s)
 
 ### MIT Reality Hack, Snap Spectacles Track, Jan 2026
 - Recently completed MIT Reality Hack (Boston)
 - Focus areas: Initial boilerplate in Lens Studio, interaction logic, gestures, UI elements.
 - Worked in a team exploring XR concepts around **Dreams & Dream Machines**
 - Public repository will be added here once published by the lead developer
-- Link for Devpost: https://devpost.com/software/wake-them-up
-- Link for the project repository: https://github.com/mattigruener/reality-hack26
+- [Devpost](https://devpost.com/software/wake-them-up)
+- [Project repository](https://github.com/mattigruener/reality-hack26)
 
 ### SuperCell AI Gaming Hack (Upcoming), Feb 2026
 - Focused on AI-driven gameplay and rapid iteration
@@ -80,4 +80,4 @@ My goal is to work at the intersection of **engineering, interaction, and spatia
 ## Shameless Plug
 - I use a lot of tools to keep myself up to date with programming knowledge. One the best ones out there is a platform called Scrimba. They've got a wide range of lessons from FullStack - AI - Data Science.
 - If you wanna join using Scrimba, please make use of my affiliate link to get 20% off from your membership 🤩
-https://scrimba.com/?via=u42aba50
+[Get your -20% Off](https://scrimba.com/?via=u42aba50)
