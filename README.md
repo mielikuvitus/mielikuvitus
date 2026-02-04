@@ -74,3 +74,10 @@ My goal is to work at the intersection of **engineering, interaction, and spatia
 - Some of my most meaningful work lives in **team repositories** rather than personal ones
 - If a repo is private or not yet published, you’ll still find my contributions in my **Pull Requests** history
 - More public XR and 3D projects coming soon
+
+---
+
+## Shameless Plug
+- I use a lot of tools to keep myself up to date with programming knowledge. One the best ones out there is a platform called Scrimba. They've got a wide range of lessons from FullStack - AI - Data Science.
+- If you wanna join using Scrimba, please make use of my affiliate link to get 20% off from your membership 🤩
+https://scrimba.com/?via=u42aba50
