@@ -78,5 +78,5 @@ My goal is to work at the intersection of **engineering, interaction, and spatia
 ---
 
 ## Shameless Plug
-- I use a lot of tools to keep myself up to date with programming knowledge. One the best ones out there is a platform called Scrimba. They've got a wide range of lessons from FullStack - AI - Data Science.
+- I use a lot of tools to keep myself up to date with programming knowledge. One the best ones out there is a platform called **Scrimba**. They've got a wide range of lessons from FullStack - AI - Data Science.
 - If you wanna join using Scrimba, please make use of my affiliate link to [get your -20% off](https://scrimba.com/?via=u42aba50) from your membership 🤩
