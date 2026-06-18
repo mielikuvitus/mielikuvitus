@@ -13,12 +13,6 @@ My background spans large-scale production systems in a banking environment and 
 - Repo is private, but contributions are reflected in my PR history
 - [Live demo](https://voltron-vert.vercel.app/)
 - [Trailer](https://youtu.be/U1G_zMXgq1Y)
-### XRCC Online Hackathon, Unity (Private Repository), Nov 2025
-- Built a Unity-based XR experience as part of a multidisciplinary team 
-- Focus areas: game sound manager scripts, hand UI scripts, most of the game assets (blender) and animation apart from our interactable robot companion, rapid prototyping under time pressure  
-- Repo is private, but contributions are reflected in my PR history
-- [Trailer](https://www.youtube.com/watch?v=icVpRDeiQnI&t=1s)
-- [Game Play](https://www.youtube.com/watch?v=t5YngTdMnGc&t=1s)
 ### MIT Reality Hack, Snap Spectacles Track, Jan 2026
 - Recently completed MIT Reality Hack (Boston)
 - Focus areas: Initial boilerplate in Lens Studio, interaction logic, gestures, UI elements.
@@ -26,6 +20,12 @@ My background spans large-scale production systems in a banking environment and 
 - Public repository will be added here once published by the lead developer
 - [Devpost](https://devpost.com/software/wake-them-up)
 - [Project repository](https://github.com/mattigruener/reality-hack26)
+### XRCC Online Hackathon, Unity (Private Repository), Nov 2025
+- Built a Unity-based XR experience as part of a multidisciplinary team 
+- Focus areas: game sound manager scripts, hand UI scripts, most of the game assets (blender) and animation apart from our interactable robot companion, rapid prototyping under time pressure  
+- Repo is private, but contributions are reflected in my PR history
+- [Trailer](https://www.youtube.com/watch?v=icVpRDeiQnI&t=1s)
+- [Game Play](https://www.youtube.com/watch?v=t5YngTdMnGc&t=1s)
 
 ## Professional Background
 **AR Developer (Contractor), weDISCOVR, Mar 2026 - Present**
