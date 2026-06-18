@@ -53,7 +53,8 @@ I’m intentionally deepening my technical range in:
 - **WebXR** and immersive web experiences
 - Building for **Snap Spectacles** using TypeScript
 - **Unity** development for Meta / VR platforms
-My goal is to work at the intersection of **engineering, interaction, and spatial design**, building experiences that feel intuitive, playful, and technically solid.
+
+#My goal is to work at the intersection of **engineering, interaction, and spatial design**, building experiences that feel intuitive, playful, and technically solid.
 
 ## Notes
 - Some of my most meaningful work lives in **team repositories** rather than personal ones
