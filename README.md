@@ -4,7 +4,7 @@ My background spans large-scale production systems in a banking environment and 
 - Connect with me: [LinkedIn](https://www.linkedin.com/in/suvi-maaria-helin)
 - Pronouns: she/her
 - Fun fact: I make a killer blueberry pie. My mum's recipe <3
----
+
 ## Selected Work & Collaboration
 ### Zoomies, AR Hackathon Project, React/TypeScript + IWSDK (Private Repository), April 2026
 - Built an AR queue game for Europa-Park's Voltron Nevera coaster, turning ride wait times into gameplay
@@ -26,7 +26,7 @@ My background spans large-scale production systems in a banking environment and 
 - Public repository will be added here once published by the lead developer
 - [Devpost](https://devpost.com/software/wake-them-up)
 - [Project repository](https://github.com/mattigruener/reality-hack26)
----
+
 ## Professional Background
 **AR Developer (Contractor), weDISCOVR, Mar 2026 - Present**
 - Sole developer owning the full AR experience end-to-end, including a browser-based AR demo built from requirements to finished, stakeholder-tested product in 12 days
@@ -39,13 +39,13 @@ My background spans large-scale production systems in a banking environment and 
   - maintainability and long-term ownership
   - influencing decisions and advocating for better UX in corporate environments
 While I’m no longer pursuing finance as a domain, this experience shaped how I build software **responsibly and collaboratively**.
----
+
 ## Education
 **BSc Web Design and Development (First Class Honours)**, **Edinburgh Napier University**  
 - Dissertation: *UX of Educational Tools for Universities*
 - Foundation for Web Technologies
 - Strong foundation in UX research, usability, and human-centred design
----
+
 ## Current Focus
 I’m intentionally deepening my technical range in:
 - Front-end architecture & advanced JavaScript / TypeScript
@@ -54,7 +54,7 @@ I’m intentionally deepening my technical range in:
 - Building for **Snap Spectacles** using TypeScript
 - **Unity** development for Meta / VR platforms
 My goal is to work at the intersection of **engineering, interaction, and spatial design**, building experiences that feel intuitive, playful, and technically solid.
----
+
 ## Notes
 - Some of my most meaningful work lives in **team repositories** rather than personal ones
 - If a repo is private or not yet published, you’ll still find my contributions in my **Pull Requests** history
