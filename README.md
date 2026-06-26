@@ -10,7 +10,6 @@ My background spans large-scale production systems in a banking environment and 
 - Built an AR queue game for Europa-Park's Voltron Nevera coaster, turning ride wait times into gameplay
 - Owned the XR development end to end: AR interaction design and object-scanning mechanics that score real-world objects against the ride's theme
 - Hybrid AI pipeline (Gemini + TensorFlow.js fallback) built by a teammate for object recognition
-- Repo is private, but contributions are reflected in my PR history
 - [Live demo](https://voltron-vert.vercel.app/)
 - [Trailer](https://youtu.be/U1G_zMXgq1Y)
 - [Project Repository](https://github.com/laurenschroeder/voltron)
