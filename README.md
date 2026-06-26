@@ -13,6 +13,7 @@ My background spans large-scale production systems in a banking environment and 
 - Repo is private, but contributions are reflected in my PR history
 - [Live demo](https://voltron-vert.vercel.app/)
 - [Trailer](https://youtu.be/U1G_zMXgq1Y)
+- [Project Repository](https://github.com/laurenschroeder/voltron)
 ### MIT Reality Hack, Snap Spectacles Track, Jan 2026
 - Recently completed MIT Reality Hack (Boston)
 - Focus areas: Initial boilerplate in Lens Studio, interaction logic, gestures, UI elements.
