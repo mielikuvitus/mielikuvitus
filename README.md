@@ -31,7 +31,7 @@ My background spans large-scale production systems in a banking environment and 
 ## Professional Background
 **AR Developer (Contractor), weDISCOVR, Mar 2026 - Present**
 - Sole developer owning the full AR experience end-to-end, including a browser-based AR demo built from requirements to finished, stakeholder-tested product in 12 days
-- Built with Three.js WebGL composited over a live camera feed, device orientation-driven camera control, and a Blender/GLB asset pipeline optimised for performance on mobile Safari
+- Built with Three.js WebGL composited over a live camera feed, device orientation-driven camera control, and a Blender/GLB asset pipeline optimised for performance on mobile (Safari)
 
 **Front-End Engineer, Banking (4 years)**  
 - Built and maintained production front-end systems used at scale
