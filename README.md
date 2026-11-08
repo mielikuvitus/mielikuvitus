@@ -58,4 +58,3 @@ I’m intentionally deepening my technical range in:
 ## Notes
 - Some of my most meaningful work lives in **team repositories** rather than personal ones
 - If a repo is private or not yet published, you’ll still find my contributions in my **Pull Requests** history
-- More public XR and 3D projects coming soon
