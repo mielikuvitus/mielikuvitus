@@ -9,7 +9,7 @@ My goal is to work at the intersection of **engineering and interaction design**
 - Fun fact: I make a killer blueberry pie. My mum's recipe <3
 
 ## Professional Background
-**AR Developer (Contractor), weDISCOVR, Mar 2026 - Present**
+**AR Developer (Contractor), weDISCOVR, Mar 2026 - Aug 2026**
 - Sole developer owning the full AR experience end-to-end, including a browser-based AR demo built from requirements to finished, stakeholder-tested product in 12 days
 - Built with Three.js WebGL composited over a live camera feed, device orientation-driven camera control, and a Blender/GLB asset pipeline optimised for performance on mobile (Safari)
 
